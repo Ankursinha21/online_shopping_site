@@ -671,5 +671,8 @@ footer .copyrights{
     #banner3 .banner-box{
         width: 100%;
     }
+    #newsletter input{
+        width: 160px;
+    }
 
 }
